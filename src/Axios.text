@@ -1,0 +1,33 @@
+
+React Axios Tutorial – Make HTTP GET and POST Requests===>
+
+In this React Axios tutorial, we are going to learn how to make Axios 
+GET, and POST requests using Axios. I will create a backend server for React app using MongoDB, Node, and Express.js. 
+We will create a frontend using React.js and Bootstrap 4. Then,
+we will learn to make REST API calls using Axios.
+
+What is Axios?
+
+Almost every web and mobile application retrieve the data when a user makes a request. 
+Web applications get the data from the database when a user makes request.
+Most of us every day publish new pictures of our family members, colleagues, and friends on facebook. 
+You must remember when you click on the post button on facebook, and it publishes your data very quickly.
+
+Web services are working behind an app to process the request made by a user. 
+These requests are made through API (Application Programming Interface). 
+The API helps in communicating with the server via a URL in the form of GET, POST, UPDATE, and Delete.
+
+Now, here Axios comes into the light. 
+Axios is a library used to make HTTP requests from the browser via Node and Express.js platform. 
+Axios is a well-known package, and it has got around 63,431 stars on GitHub and forked nearly 5273 times at the time of creating this tutorial.
+
+What Makes Axios Dev-Friendly?
+
+-Supports the Promise API
+-Make http requests from Node
+-Intercept request and response
+-Transform request and response data
+-Request can be canceled
+-Automatic transforms for JSON data
+-Make XMLHttpRequests from the browser
+-Client-side support for protecting against XSRF
